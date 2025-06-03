@@ -1,0 +1,26 @@
+{
+    "莱卡恩": {
+        "ref_audio_path": "D:/AI/GPT-SoVITS-v3lora-20250228/refer_audio/莱卡恩/不过如果真如阁下所说，这位发帖人只是在恶作剧的话，倒也无妨。.wav",
+        "prompt_text": "不过如果真如阁下所说，这位发帖人只是在恶作剧的话，倒也无妨。",
+        "GPT_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\GPT_weights_v3\\莱卡恩-e10.ckpt",
+        "Sovits_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\SoVITS_weights_v3\\莱卡恩_e10_s560.pth"
+    },
+    "星见雅": {
+        "ref_audio_path": "D:/AI/GPT-SoVITS-v3lora-20250228/refer_audio/雅/难过_sad/【难过_sad】就像你追求真正的正义一样，蜜瓜就是蜜瓜绝不会变成假的。.wav",
+        "prompt_text": "就像你追求真正的正义一样，蜜瓜就是蜜瓜绝不会变成假的。",
+        "GPT_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\GPT_weights_v3\\雅-e10.ckpt",
+        "Sovits_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\SoVITS_weights_v3\\雅_e10_s170.pth"
+    },
+    "苍角": {
+        "ref_audio_path": "D:/AI/GPT-SoVITS-v3lora-20250228/refer_audio/苍角/另外关于吃的我完全没有忌口，只要是好吃的，我什么都可以吃啊。.wav",
+        "prompt_text": "另外关于吃的我完全没有忌口，只要是好吃的，我什么都可以吃啊。",
+        "GPT_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\GPT_weights_v3\\苍角-e10.ckpt",
+        "Sovits_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\SoVITS_weights_v3\\苍角_e10_s110.pth"
+    },
+    "光头强": {
+        "ref_audio_path": "D:/AI/GPT-SoVITS-v3lora-20250228/refer_audio/光头强/没人哪，难道我听错了？算了，吃饱了睡会儿去，晚上还得干活.wav",
+        "prompt_text": "没人哪，难道我听错了？算了，吃饱了睡会儿去，晚上还得干活。",
+        "GPT_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\GPT_weights_v3\\guangtouqiang-e15.ckpt",
+        "Sovits_weights_path": "D:\\AI\\GPT-SoVITS-v3lora-20250228\\SoVITS_weights_v3\\guangtouqiang_e4_s100.pth"
+    }
+}
